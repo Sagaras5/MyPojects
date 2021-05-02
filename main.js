@@ -5,7 +5,7 @@ var stringValues = ["Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven
 //iniotiating final string array
 var stringArray = '';
 
-//commit 2
+//commit 3
 
 //iterating through the given array of numbers
 for(i=0; i< args.length; i++)
